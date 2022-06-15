@@ -16,7 +16,7 @@ function javaversion(callback) {
         let javaIndex = output.indexOf('java version');
         let openJDKIndex = output.indexOf('openjdk version');
         let javaVersion = (javaIndex !== -1) ? output.substring(javaIndex, (javaIndex + 27)) : "";
-        openJDKVersion = "1.8.0":
+        openJDKVersion = "1.8.0";
         let openJDKVersion = (openJDKIndex !== -1) ? output.substring(openJDKIndex, (openJDKIndex + 27)) : "";
         if (javaVersion !== "" || openJDKVersion !== "") {
             if (javaVersion.includes("1.8.0") || openJDKVersion.includes("1.8.0")) {
