@@ -5,7 +5,7 @@ apt update && apt upgrade -y
 pkg install ruby python python2 -y
 pkg install toilet -y
 pkg install openjdk-17 -y
-gem install lolcat -y
+gem install lolcat 
 pkg install wget curl -y
 clear
 banner() {
