@@ -1,5 +1,5 @@
 # Lemon-termux
-# Metasploit-termux
+
 <p align="center">
 <a href="https://h4ck3r0.github.io/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
@@ -9,7 +9,7 @@
 <a href="https://h4ck3r0.github.io/"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
- <a href=""><img src="[https://user-images.githubusercontent.com/46929618/154997514-8bd1d6c6-6b3d-4251-a6ce-6b8bceb22b06.png](https://user-images.githubusercontent.com/46929618/174078888-942c148b-b83d-4417-b69c-3cf4c82cb17c.png)" width="1000" hight="300"></a>
+ <a href=""><img src="https://user-images.githubusercontent.com/46929618/174078888-942c148b-b83d-4417-b69c-3cf4c82cb17c.png" width="1000" hight="300"></a>
 </p>
 <p align="center">
 <a href="https://github.com/h4ck3r0"><img title="Github" src="https://img.shields.io/badge/H4CK3R-RAJ-brightgreen?style=for-the-badge&logo=github"></a>
@@ -41,10 +41,20 @@
 
 
 ### FEATURES :
-* [+] 
-* [+] 
-* [+] 
-* [+] 
+* [+] GPS Logging
+* [+] Microphone Recording
+* [+] View Contacts
+* [+] SMS Logs
+* [+] Send SMS
+* [+] Call Logs
+* [+] View Installed Apps
+* [+] View Stub Permissions
+* [+] Live Clipboard Logging
+* [+] Live Notification Logging
+* [+] View WiFi Networks (logs previously seen)
+* [+] File Explorer & Downloader
+* [+] Command Queuing
+* [+] Built In APK Builder
 * [+] Error fixed !
 
 ## INSTALLATION [Termux] :
@@ -57,7 +67,17 @@
 * `cd Lemon-termux`
 * `bash lemon.sh`
 
-[+]-- cd metasploit-framework ; ./msfconsole
+[+]-- Type lempn To Run
+
+## Credits
+ - Special Thanks to [D3vl](https://github.com/d3vl/l3mon)
+ - Inspiration for the project and the basic building blocks for the Android App are based off [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) 
+ - [express](https://github.com/expressjs/express)
+ - [node-geoip](https://github.com/bluesmoon/node-geoip)
+ - [lowdb](https://github.com/typicode/lowdb)
+ - [socket.io](https://github.com/socketio/socket.io)
+ - [Open Street Map](https://www.openstreetmap.org)
+ - [Leaflet](https://leafletjs.com/)
 
 ## CONNECT WITH US :
 <a href="https://www.buymeacoffee.com/h4ck3r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
