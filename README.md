@@ -18,9 +18,9 @@
 <p align="center">
 <a href="https://github.com/h4ck3r0"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 <a href="https://github.com/h4ck3r0"><img title="Followers" src="https://img.shields.io/github/followers/h4ck3r0?color=blue&style=flat-square"></a>
-<a href="https://github.com/h4ck3r0"><img title="Stars" src="https://img.shields.io/github/stars/h4ck3r0/Metasploit-termux?color=red&style=flat-square"></a>
-<a href="https://github.com/h4ck3r0"><img title="Forks" src="https://img.shields.io/github/forks/h4ck3r0/Metasploit-termux?color=red&style=flat-square"></a>
-<a href="https://github.com/h4ck3r0"><img title="Watching" src="https://img.shields.io/github/watchers/h4ck3r0/Metasploit-termux?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/h4ck3r0"><img title="Stars" src="https://img.shields.io/github/stars/h4ck3r0/Lemon=termux?color=red&style=flat-square"></a>
+<a href="https://github.com/h4ck3r0"><img title="Forks" src="https://img.shields.io/github/forks/h4ck3r0/Lemon-termux?color=red&style=flat-square"></a>
+<a href="https://github.com/h4ck3r0"><img title="Watching" src="https://img.shields.io/github/watchers/h4ck3r0/Lemon-termux?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/h4ck3r0"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
 
@@ -31,13 +31,14 @@
 * Linux
 
 ### REQUIREMENTS :
+
 * Apktool
 * Java 1.8.0
 * Gem
-* git
-* ruby
-* bundle
-* many more ......
+* Git
+* Ruby
+* Bundle
+* Many more ......
 
 
 ### FEATURES :
