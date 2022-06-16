@@ -1,3 +1,6 @@
+#!/data/data/com.termux/files/usr/bin/sh
+
+
 apt update && apt upgrade -y
 pkg install ruby python python2 -y
 pkg install toilet -y
@@ -44,7 +47,7 @@ cd /data/data/com.termux/files/usr/share/
 mkdir lemon 
 cd $HOME/Lemon-termux/.files
 cp -r app assests clientData includes index.js package-lock.json package.json /data/data/com.termux/files/usr/share/lemon/
-sed -i 'node index.js' $HOME/Lemon-termux/lemon
+sed -i 'cd $PREFIX/share/lemon/server && node index.js' $HOME/Lemon-termux/lemon
 cp -r $HOME/Lemon-termux/lemon /data/data/com.termux/files/usr/share/bin/
 chmod +x /data/data/com.termux/files/usr/share/bin/lemon
 cd /data/data/com.termux/files/usr/share/lemon/
