@@ -68,7 +68,7 @@
 * `cd Lemon-termux`
 * `bash lemon.sh`
 
-[+]-- Type lempn To Run
+[+]-- Type lemon To Run
 
 ## Credits
  - Special Thanks to [D3vl](https://github.com/d3vl/l3mon)
