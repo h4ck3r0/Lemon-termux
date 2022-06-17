@@ -27,9 +27,9 @@ echo '
  sleep 6.0
  clear 
  echo -e "\e[34m[\e[92m✓\e[34m]\033[92m INSTALLING REQUIREED PACKAGES"
- apt install nodejs nano yarn -y
  sleep 5.0
-
+ apt install nodejs nano yarn -y
+ clear
                  
                   toilet -F border -f mono12  "Apktool"  | lolcat
                   printf ""
@@ -56,7 +56,7 @@ yarn add expressjs
 clear
 echo -e "\e[34mINSTALLED SUCCESSFULLY....[\e[92m✓\e[34m]\e[92m"
 echo -e "\e[34mThanks To D3vil[\e[92m✓\e[34m]\e[92m"
-Sleep 5.0
+sleep 5.0
 clear
 echo -e "\e[1;34m[√] \e[96mType Lemon To Start Server\e[0m"
 
