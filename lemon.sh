@@ -21,20 +21,20 @@ echo '
 ' | lolcat                           
                                          
  echo ""
+ echo ""
+ echo ""
  echo -e "\e[1;31m  [\e[32m√\e[31m] \e[1;91m by \e[1;36mRaj Aryan \e[93m/ \e[100;92m Youtube.com/c/H4Ck3R0\e[0m"
- Sleep 10.0
+ Sleep 9.0
  clear 
  echo -e "\e[34m[\e[92m✓\e[34m]\033[92m INSTALLING REQUIREED PACKAGES"
  apt install nodejs nano yarn -y
  Sleep 5.0
 
-
-banner ( ) { 
-                  
+                 
                   toilet -F border -f mono12  "Apktool"  | lolcat
                   printf ""
                   printf "\e[1;34m[*] \e[1;96mcreated by \e[1;33m Raj Aryan ( @h4ck3r_0 )\e[0m"
-                  }
+              
                   
 export apktool_version=2.6.1
 
