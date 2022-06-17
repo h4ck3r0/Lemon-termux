@@ -49,7 +49,8 @@ cd $HOME/Lemon-termux/.files
 cp -r app assets clientData includes index.js package-lock.json package.json /data/data/com.termux/files/usr/share/lemon/
 sed -i 'ccd $PREFIX/share/lemon/server && node index.js' $HOME/Lemon-termux/lemon
 cp -r $HOME/Lemon-termux/lemon /data/data/com.termux/files/usr/bin/
-chmod +x /data/data/com.termux/files/usr/share/bin/lemon
+chmod +x /data/data/com.termux/files/usr/bin/lemon
+
 cd /data/data/com.termux/files/usr/share/lemon/
 yarn add expressjs
 clear
