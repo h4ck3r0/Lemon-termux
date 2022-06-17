@@ -55,7 +55,7 @@ cd /data/data/com.termux/files/usr/share/lemon/
 yarn add expressjs
 clear
 echo -e "\e[34mINSTALLED SUCCESSFULLY....[\e[92m✓\e[34m]\e[92m"
-echo -e "\e[34mThanks To D3vil[\e[92m✓\e[34m]\e[92m"
+echo -e "\e[34mTHANKS TO D3VL[\e[92m✓\e[34m]\e[92m"
 sleep 5.0
 clear
 echo -e "\e[1;34m[√] \e[96mType Lemon To Start Server\e[0m"
