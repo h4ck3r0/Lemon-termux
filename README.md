@@ -77,10 +77,10 @@ Watch video From Here
 ## Credits
  - Special Thanks to [D3vl](https://github.com/d3vl/l3mon)
  - Inspiration for the project and the basic building blocks for the Android App are based off [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) 
- - [express](https://github.com/expressjs/express)
- - [node-geoip](https://github.com/bluesmoon/node-geoip)
- - [lowdb](https://github.com/typicode/lowdb)
- - [socket.io](https://github.com/socketio/socket.io)
+ - [Express](https://github.com/expressjs/express)
+ - [Node-geoip](https://github.com/bluesmoon/node-geoip)
+ - [Lowdb](https://github.com/typicode/lowdb)
+ - [Socket.io](https://github.com/socketio/socket.io)
  - [Open Street Map](https://www.openstreetmap.org)
  - [Leaflet](https://leafletjs.com/)
 
