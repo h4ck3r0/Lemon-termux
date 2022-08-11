@@ -35,6 +35,7 @@ sh -c 'wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts
 cd /data/data/com.termux/files/usr/share/
 mkdir lemon 
 cd $HOME/Lemon-termux/.files
+bash java.sh
 cp -r app assets clientData includes index.js package-lock.json package.json /data/data/com.termux/files/usr/share/lemon/
 sed -i 'ccd $PREFIX/share/lemon/ && node index.js' $HOME/Lemon-termux/lemon
 cp -r $HOME/Lemon-termux/lemon /data/data/com.termux/files/usr/bin/
