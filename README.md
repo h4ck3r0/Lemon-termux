@@ -76,6 +76,11 @@ Watch video From Here
 
 [![Watch the video](https://img.youtube.com/vi/1L-VBnf2CKw/maxresdefault.jpg)](https://youtu.be/1L-VBnf2CKw)
 
+### Install Java
+
+[![Watch the video](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRRXMABbcvhEbyY1AvIuWvuc_xLcHNM9oRPsO9ieGgkgz1xQs0whv9waiCEWuiyd47bizGb0tfVhWWTu4-1ica1G0eP6o0pCEk6czpml6hktryFrV6ZzC1Y0tA0dp2WQDSuZnoeSD-CAcsDMoz5M5rJEyMfmCxN8jBYYHrGFj7MYfVtrpjVrpfrMXToA/w938-h528/java.png)](https://youtu.be/MgpGfOapqn0)
+
+
 ## Credits
  - Special Thanks to [D3vl](https://github.com/d3vl/l3mon)
  - Java [MasterDevX](https://github.com/masterdevx)
