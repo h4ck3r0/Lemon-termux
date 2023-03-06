@@ -33,7 +33,7 @@
 ### REQUIREMENTS :
 
 * Apktool
-* Java 1.8.0
+* Java 1.8.0 [ Necessary ]
 * Gem
 * Git
 * Ruby
@@ -67,6 +67,8 @@
 * `git clone https://github.com/h4ck3r0/Lemon-termux`
 * `cd Lemon-termux`
 * `bash lemon.sh`
+
+#### Install Java To Fix Build Error
 
 [+]-- Type lemon To Run
 
