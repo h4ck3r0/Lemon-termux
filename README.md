@@ -72,7 +72,7 @@
 
 [+]-- Type lemon To Run
 
-## [Read More](https://h4ck3r.me/how-to-install-lemon-rat-in-termux-newmethod-by-h4ck3r/) 
+## [Read More](https://www.google.com/search?q=how%2Dto%2Dinstall%2Dlemon%2Drat%2Din%2Dtermux%2Dnewmethod%2Dby%2Dh4ck3r+site%3Ah4ck3r%2Eme) 
 
 Watch video From Here
 
