@@ -67,6 +67,7 @@
 * `git clone https://github.com/h4ck3r0/Lemon-termux`
 * `cd Lemon-termux`
 * `bash lemon.sh`
+* `Java 8 Added Successfully`
 
 #### Install Java To Fix Build Error
 
