@@ -86,7 +86,6 @@ Watch video From Here
 
 ## Credits
  - Special Thanks to [D3vl](https://github.com/d3vl/l3mon)
- - Java [MasterDevX](https://github.com/masterdevx)
  - Inspiration for the project and the basic building blocks for the Android App are based off [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) 
  - [Express](https://github.com/expressjs/express)
  - [Node-geoip](https://github.com/bluesmoon/node-geoip)
