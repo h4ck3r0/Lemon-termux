@@ -3,7 +3,7 @@
 
 apt update && apt upgrade -y
 gem install lolcat
-pkg install wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
+pkg install proot wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
 
 clear
 
