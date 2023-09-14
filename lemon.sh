@@ -2,7 +2,7 @@
 
 
 apt update && apt upgrade -y
-pkg install python-pip -y
+pkg install python-pip toilet -y
 pip install lolcat -y
 pkg install proot wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
 
