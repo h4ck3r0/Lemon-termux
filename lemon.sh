@@ -4,6 +4,7 @@
 apt update && apt upgrade -y
 pkg install python-pip toilet -y
 pip install lolcat -y
+apt remove openjdk-17
 pkg install proot wget && wget https://github.com/h4ck3r0/Java-termux/releases/download/javafix.sh/javafix.sh && bash javafix.sh
 
 clear
@@ -48,5 +49,5 @@ clear
 echo -e "\e[1;34m[√] \e[96mType Lemon To Start Server\e[0m"
 
 
-termux-open-url https://h4ck3r.me/
+termux-open-url https://www.h4ck3r.me/
 
