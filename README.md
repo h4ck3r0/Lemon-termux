@@ -73,7 +73,7 @@
 
 [+]-- Type lemon To Run
 
-## [Read More](https://www.h4ck3r.me/how-to-install-l3mon-in-termux/) 
+## [Read More](https://www.google.com/search?q=How%20to%20install%20l3mon%20in%20termux%20site%3Ah4ck3r.me) 
 
 Watch video From Here
 
